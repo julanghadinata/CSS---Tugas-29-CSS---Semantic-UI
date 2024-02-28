@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(202, 200, 200);
+  height: 70vh;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.image img {
+  width: 34px;
+  height: 34px;
+}
+
+.judul {
+  padding-top: 5px;
+  margin-left: 8px;
+  color: rgb(11, 161, 161);
+  font-weight: bold;
+}
+
+.container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  background-color: white;
+  padding: 20px 20px;
+  width: 350px;
+  border-radius: 2%;
+}
+
+.ui .input {
+  margin-bottom: 10px;
+}
+
+button {
+  width: 310px;
+}
